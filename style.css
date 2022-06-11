@@ -1,0 +1,17 @@
+.infor-header h1
+{
+    font-size: 50px;
+    font-weight: 700;
+}
+.infor-header h1
+{
+    font-size: 28px;
+    font-weight: 600;
+}
+.infor-body p
+{
+    line-height: 10px;
+}
+.jumbotron img{
+    border-radius: 80%;
+}
